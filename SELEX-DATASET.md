@@ -46,7 +46,7 @@ https://doi.org/10.1093/bioinformatics/btu348
 
 ### https://www.morgridge.net/dmz/www-dmz/upload/files/peng/Aptamer/
 
-![image-20221103192109429](SELEX-DATASET/image-20221103192109429.png)
+![image-20221103192109429](SELEX-DATASET.assets/image-20221103192109429.png)
 
 ## ESRP1
 
@@ -178,7 +178,7 @@ https://doi.org/10.1093/nar/gkaa484
 
 DRA009383 
 
-![image-20221103203932631](SELEX-DATASET/image-20221103203932631.png)
+![image-20221103203932631](SELEX-DATASET.assets/image-20221103203932631.png)
 
 ## human recombinant integrin alpha V beta 3 (αVβ3; Cat. No. 3050-AV)
 
@@ -186,7 +186,7 @@ DRA009383
 
 DRA009384
 
-![image-20221103203946399](SELEX-DATASET/image-20221103203946399.png)
+![image-20221103203946399](SELEX-DATASET.assets/image-20221103203946399.png)
 
 # [fail] AptCompare
 
@@ -262,7 +262,7 @@ Iwano, N., Adachi, T., Aoki, K. *et al.* Generative aptamer discovery using Rapt
 
 https://doi.org/10.1038/s43588-022-00249-6
 
-![image-20221103205305939](SELEX-DATASET/image-20221103205305939.png)
+![image-20221103205305939](SELEX-DATASET.assets/image-20221103205305939.png)
 
 ## human transglutaminase 2
 
